@@ -4,6 +4,15 @@
 🔹 15+ years in Data Warehousing, ETL, and BI  
 🔹 Passionate about design, creativity, and building meaningful apps  
 
+---
+
+### 🎨 What Inspires Me
+- Minimalism (every pixel counts, every word matters)  
+- Waves at the beach 🌊  
+- Clean data models that tell a story  
+- Playing cricket & chasing that perfect straight drive 🏏  
+
+---
 ### 🌱 Currently Exploring
 - Data Vault 2.0  
 - Generative AI app development  
