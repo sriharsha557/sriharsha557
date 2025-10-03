@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Harsha 👋  
 
-<!--
-**sriharsha557/sriharsha557** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Data Architect | Power BI Enthusiast | Storyteller through Data**  
+🔹 15+ years in Data Warehousing, ETL, and BI  
+🔹 Passionate about design, creativity, and building meaningful apps  
 
-Here are some ideas to get you started:
+### 🌱 Currently Exploring
+- Data Vault 2.0  
+- Generative AI app development  
+- Minimalist design in software & fashion  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📫 Connect with Me
+- Portfolio: [harshaaa](https://sriharsha557.github.io/harshaaa/)  
+
+---
+✨ Always building. Always learning.
