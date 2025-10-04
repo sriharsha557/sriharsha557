@@ -1,4 +1,6 @@
-# Hi, I'm Harsha 👋  
+# Hi, I'm  
+![Logo](harsha_logo.png)
+
 
 💻 **Data Architect | Power BI Enthusiast | Storyteller through Data**  
 🔹 15+ years in Data Warehousing, ETL, and BI  
